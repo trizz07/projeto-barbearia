@@ -2,12 +2,20 @@ body {
     background: #CCCCCC
 }
 
+#banner {
+    
+}
+
 h1 {
-    style="text-align: center
+    "text-align: center
 }
 
 p {
     text-aglin: center;
+}
+#missao {
+
+    font-size: 20px
 }
 
 em strong {
